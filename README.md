@@ -15,6 +15,7 @@ Ui react Projects
    ```bash
    npm install
    npm run dev
+   npm i react-player
 
 ## License
 
