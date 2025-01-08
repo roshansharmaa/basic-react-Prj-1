@@ -1,8 +1,30 @@
-# React + Vite
+# Project Title
+Fan Zone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Ui react Projects 
 
-Currently, two official plugins are available:
+## Preview
+![Roll the Dice Preview](![image](https://github.com/user-attachments/assets/df9dd9da-8abc-4821-8b24-09ceb0d5dfc8)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installing
+### Getting Started
+1. Simply download and open the project.
+2. Run the following commands:
+   ```bash
+   npm install
+   npm run dev
+
+## License
+
+This project is licensed under the Lotus Flowers License - see the LICENSE.md file for details.
+
+
+## Live Preview
+* [Live Site](https://basic-react-prj-1.netlify.app/)
+
+## Acknowledgments
+
+Inspiration, code snippets etc.
+* [Live Site](https://basic-react-prj-1.netlify.app/).  
+   make this perfeft in code
