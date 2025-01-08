@@ -29,4 +29,4 @@ This project is licensed under the Lotus Flowers License - see the LICENSE.md fi
 
 Inspiration, code snippets etc.
 * [Live Site](https://basic-react-prj-1.netlify.app/).  
-   make this perfeft in code
+
