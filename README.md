@@ -5,7 +5,8 @@ Fan Zone
 Ui react Projects 
 
 ## Preview
-![Roll the Dice Preview](![image](https://github.com/user-attachments/assets/df9dd9da-8abc-4821-8b24-09ceb0d5dfc8)
+![Roll the Dice Preview](![image](https://github.com/user-attachments/assets/b6ce6e05-6fa8-4e93-b53a-a4363ac3b416)
+
 
 ## Installing
 ### Getting Started
